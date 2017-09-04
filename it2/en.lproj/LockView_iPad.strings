@@ -1,0 +1,9 @@
+
+/* Class = "IBUIButton"; normalTitle = "Unlock the course for only %@"; ObjectID = "24"; */
+"24.normalTitle" = "Unlock the course for only %@";
+
+/* Class = "IBUILabel"; text = "Unlock full course for only %@!\n\n\t✓\tRemove ads banners\n\t✓\tUnlock all chapters in the course\n\nPress 'Restore purchases' button if you have purchased full course. You wouldn't be charged again.\n"; ObjectID = "26"; */
+"26.text" = "Unlock full course for only %@!\n\n\t✓\tRemove ads banners\n\t✓\tUnlock all chapters in the course\n\nPress 'Restore purchases' button if you have purchased full course. You wouldn't be charged again.\n";
+
+/* Class = "IBUIButton"; normalTitle = "Restore purchases"; ObjectID = "28"; */
+"28.normalTitle" = "Restore purchases";

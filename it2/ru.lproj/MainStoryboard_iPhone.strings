@@ -1,0 +1,75 @@
+
+/* Class = "IBUINavigationItem"; title = "Title"; ObjectID = "1ij-Ab-jD9"; */
+"1ij-Ab-jD9.title" = "Title";
+
+/* Class = "IBUITabBarItem"; title = "Настройки"; ObjectID = "27G-Zz-9WZ"; */
+"27G-Zz-9WZ.title" = "Настройки";
+
+/* Class = "IBUILabel"; text = "Поздравляем!"; ObjectID = "3Ua-nx-Jes"; */
+"3Ua-nx-Jes.text" = "Поздравляем!";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "5Fz-W1-10w"; */
+"5Fz-W1-10w.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Скидка"; ObjectID = "9jW-Bk-mBb"; */
+"9jW-Bk-mBb.text" = "Скидка";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "CyK-dL-vFL"; */
+"CyK-dL-vFL.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "О программе"; ObjectID = "LAB-3o-CJk"; */
+"LAB-3o-CJk.title" = "О программе";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "LPz-uF-iYG"; */
+"LPz-uF-iYG.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Title"; ObjectID = "MX5-7e-neI"; */
+"MX5-7e-neI.title" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "Купить курс всего за %@"; ObjectID = "PbN-S1-Rfh"; */
+"PbN-S1-Rfh.normalTitle" = "Купить курс всего за %@";
+
+/* Class = "IBUILabel"; text = "Вы успешно завершили курс"; ObjectID = "Qb7-Lq-N66"; */
+"Qb7-Lq-N66.text" = "Вы успешно завершили курс";
+
+/* Class = "IBUILabel"; text = "Откройте полный курс всего за %@!\n\n\t✓\tУбрать рекламные банеры\n\t✓\tОткрыть все главы курса\n\nНажмите кнопку Восстановить если Вы уже приобретали полный курс. Ваши деньги не будут списаны дважды.\n"; ObjectID = "R9w-zj-8lt"; */
+"R9w-zj-8lt.text" = "Откройте полный курс всего за %@!\n\n\t✓\tУбрать рекламные банеры\n\t✓\tОткрыть все главы курса\n\nНажмите кнопку Восстановить если Вы уже приобретали полный курс. Ваши деньги не будут списаны дважды.\n";
+
+/* Class = "IBUINavigationItem"; title = "Root View Controller"; ObjectID = "TAi-4T-Aop"; */
+"TAi-4T-Aop.title" = "Root View Controller";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "bJt-dI-AkY"; */
+"bJt-dI-AkY.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Восстановить покупки"; ObjectID = "bKI-WF-BBO"; */
+"bKI-WF-BBO.normalTitle" = "Восстановить покупки";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "bZN-6M-4lx"; */
+"bZN-6M-4lx.text" = "Label";
+
+/* Class = "IBUITabBarItem"; title = "Ещё"; ObjectID = "dIP-3o-Sin"; */
+"dIP-3o-Sin.title" = "Ещё";
+
+/* Class = "IBUINavigationItem"; title = "Help"; ObjectID = "mSw-3X-kaV"; */
+"mSw-3X-kaV.title" = "Help";
+
+/* Class = "IBUINavigationItem"; title = "Root View Controller"; ObjectID = "qAE-6n-rDS"; */
+"qAE-6n-rDS.title" = "Root View Controller";
+
+/* Class = "IBUILabel"; text = "Lorem ipsum dolor sit amet, sed do   consectetur"; ObjectID = "rUm-de-KlR"; */
+"rUm-de-KlR.text" = "Lorem ipsum dolor sit amet, sed do   consectetur";
+
+/* Class = "IBUINavigationItem"; title = "Title"; ObjectID = "rdA-w0-kQ9"; */
+"rdA-w0-kQ9.title" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "Сертификат"; ObjectID = "s14-is-7Qu"; */
+"s14-is-7Qu.title" = "Сертификат";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "wOj-5l-rYP"; */
+"wOj-5l-rYP.text" = "Label";
+
+/* Class = "IBUITabBarItem"; title = "Курс"; ObjectID = "z3g-aw-cg9"; */
+"z3g-aw-cg9.title" = "Курс";
+
+/* Class = "IBUILabel"; text = "Lance Maeyer"; ObjectID = "z5l-ry-Qe8"; */
+"z5l-ry-Qe8.text" = "Lance Maeyer";

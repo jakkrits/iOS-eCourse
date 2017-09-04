@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Title</key>
+	<string>Параметры</string>
+	<key>StringsTable</key>
+	<string>Root</string>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>Внешний вид</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Шрифт</string>
+			<key>Key</key>
+			<string>fontFamily</string>
+			<key>DefaultValue</key>
+			<integer>0</integer>
+			<key>Values</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>2</integer>
+				<integer>3</integer>
+				<integer>4</integer>
+				<integer>5</integer>
+				<integer>6</integer>
+				<integer>7</integer>
+				<integer>8</integer>
+				<integer>9</integer>
+				<integer>10</integer>
+			</array>
+			<key>Titles</key>
+			<array>
+				<string>Arial</string>
+				<string>Comic Sans MS</string>
+				<string>Courier New</string>
+				<string>Gadget</string>
+				<string>Georgia</string>
+				<string>Helvetica</string>
+				<string>Lucida Grande</string>
+				<string>Palatino</string>
+				<string>Times</string>
+				<string>Tahoma</string>
+				<string>Verdana</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Values</key>
+			<array>
+				<integer>8</integer>
+				<integer>10</integer>
+				<integer>12</integer>
+				<integer>14</integer>
+				<integer>16</integer>
+				<integer>18</integer>
+				<integer>20</integer>
+				<integer>22</integer>
+				<integer>24</integer>
+			</array>
+			<key>Titles</key>
+			<array>
+				<string>8</string>
+				<string>10</string>
+				<string>12</string>
+				<string>14</string>
+				<string>16</string>
+				<string>18</string>
+				<string>20</string>
+				<string>22</string>
+				<string>24</string>
+			</array>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Размер шрифта</string>
+			<key>Key</key>
+			<string>fontSize</string>
+			<key>DefaultValue</key>
+			<integer>12</integer>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Дополнительные настройки</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Показывать справку при старте</string>
+			<key>Key</key>
+			<string>showHelpAtStart</string>
+			<key>DefaultValue</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Учетная запись</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>ButtonLogout</string>
+			<key>Title</key>
+			<string>Сменить учетную запись</string>
+			<key>Type</key>
+			<string>IASKButtonSpecifier</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>О программе</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>FooterText</key>
+			<string>Инфошаблон приложения v.2.0 © 2013 Василий Макаров, infoizdat.ru</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+			<key>Title</key>
+			<string>Версия</string>
+			<key>Key</key>
+			<string>version</string>
+			<key>DefaultValue</key>
+			<string>1.0</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+			<key>Title</key>
+			<string>Copyright</string>
+			<key>DefaultValue</key>
+			<string>Александр Букинист</string>
+			<key>Key</key>
+			<string>copyright</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>FacebookButton</string>
+			<key>File</key>
+			<string>http://facebook.com/</string>
+			<key>Title</key>
+			<string>Facebook</string>
+			<key>IASKCellImage</key>
+			<string>facebook</string>
+			<key>IASKTextAlignment</key>
+			<string>IASKUITextAlignmentLeft</string>
+			<key>Type</key>
+			<string>IASKOpenURLSpecifier</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>TwitterButton</string>
+			<key>File</key>
+			<string>http://twitter.com/</string>
+			<key>Title</key>
+			<string>Twitter</string>
+			<key>IASKCellImage</key>
+			<string>twitter</string>
+			<key>IASKTextAlignment</key>
+			<string>IASKUITextAlignmentLeft</string>
+			<key>Type</key>
+			<string>IASKOpenURLSpecifier</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>InfoizdatButton</string>
+			<key>File</key>
+			<string>http://infoizdat.ru/</string>
+			<key>Title</key>
+			<string>Инфоиздат (infoizdat.ru)</string>
+			<key>IASKCellImage</key>
+			<string>infoizdat</string>
+			<key>IASKTextAlignment</key>
+			<string>IASKUITextAlignmentLeft</string>
+			<key>Type</key>
+			<string>IASKOpenURLSpecifier</string>
+		</dict>
+	</array>
+</dict>
+</plist>

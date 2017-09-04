@@ -1,0 +1,13 @@
+#!/bin/sh
+
+cd Base.lproj
+for i in *.storyboard; do
+    #ibtool $i --generate-strings-file ../en.lproj/`echo $i|sed "s/.storyboard/.strings/"`
+done
+for i in *.xib; do
+    ibtool $i --generate-strings-file ../en.lproj/`echo $i|sed "s/.xib/.strings/"`
+done
+
+cd ..
+
+find . -name \*.m | xargs genstrings -o en.lproj

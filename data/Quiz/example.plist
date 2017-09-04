@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>Why should you start an online store right now?</string>
+		<key>answer</key>
+		<string>Because it&apos;s cool!</string>
+		<key>a1</key>
+		<string>Because I can earn a lot of money in two weeks!</string>
+		<key>a2</key>
+		<string>Because I hate my current job</string>
+		<key>a3</key>
+		<string>Because it&apos;s not harder than to open a can of cola</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>example.png</string>
+		<key>answer</key>
+		<string>Oh, it&apos;s an image instead a question text!</string>
+		<key>a1</key>
+		<string>I think it should be a picture not an image...</string>
+		<key>a2</key>
+		<string>No, it&apos;s a painting, I&apos;m sure!</string>
+		<key>a3</key>
+		<string>Ok, guys. It&apos;s a visual representation of information.</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>example.html</string>
+		<key>answer</key>
+		<string>Yes, it&apos;s a nice HTML page!</string>
+		<key>a1</key>
+		<string>No, this is just a text box</string>
+		<key>a2</key>
+		<string>I think, it&apos;s an UILabel</string>
+		<key>a3</key>
+		<string>Oh, I don&apos;t know what is it</string>
+	</dict>
+</array>
+</plist>

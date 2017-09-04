@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allowAnonymous</key>
+	<false/>
+	<key>loginAtStartUp</key>
+	<false/>
+	<key>fontSize</key>
+	<integer>18</integer>
+	<key>fontFamily</key>
+	<integer>0</integer>
+	<key>progressUnlock</key>
+	<false/>
+	<key>defaultPrice</key>
+	<string>$2.99</string>
+	<key>showAboutAtFirstStart</key>
+	<true/>
+	<key>AdMob</key>
+	<true/>
+</dict>
+</plist>

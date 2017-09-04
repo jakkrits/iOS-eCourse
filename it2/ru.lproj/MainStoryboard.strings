@@ -1,0 +1,93 @@
+
+/* Class = "IBUITabBarItem"; title = "Настройки"; ObjectID = "5fc-Lm-RFY"; */
+"5fc-Lm-RFY.title" = "Настройки";
+
+/* Class = "IBUIButton"; normalTitle = "Пришлите мне промо-код!"; ObjectID = "8Yi-vC-kMd"; */
+"8Yi-vC-kMd.normalTitle" = "Пришлите мне промо-код!";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "AzJ-RQ-Tu8"; */
+"AzJ-RQ-Tu8.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Распродажа"; ObjectID = "CAc-sB-4kq"; */
+"CAc-sB-4kq.text" = "Распродажа";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "DqQ-eY-aJ7"; */
+"DqQ-eY-aJ7.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "Сертификат"; ObjectID = "Dra-JX-cdN"; */
+"Dra-JX-cdN.title" = "Сертификат";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Fi0-lC-6Eb"; */
+"Fi0-lC-6Eb.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Ниже Вы видите задачи для выбранной главы. \nВнимательно прочитайте описание задачи, выполните задачу и отметье её как завершенную."; ObjectID = "IEe-ef-lUt"; */
+"IEe-ef-lUt.text" = "Ниже Вы видите задачи для выбранной главы. \nВнимательно прочитайте описание задачи, выполните задачу и отметье её как завершенную.";
+
+/* Class = "IBUINavigationItem"; title = "Title"; ObjectID = "LVK-Yb-LUs"; */
+"LVK-Yb-LUs.title" = "Title";
+
+/* Class = "IBUILabel"; text = "Chapter subtitle"; ObjectID = "MKu-WA-tua"; */
+"MKu-WA-tua.text" = "Chapter subtitle";
+
+/* Class = "IBUINavigationItem"; title = "О программе"; ObjectID = "N0h-rv-ZlK"; */
+"N0h-rv-ZlK.title" = "О программе";
+
+/* Class = "IBUINavigationItem"; title = "Root View Controller"; ObjectID = "NEt-Gp-ve5"; */
+"NEt-Gp-ve5.title" = "Root View Controller";
+
+/* Class = "IBUILabel"; text = "Введите Ваш e-mail"; ObjectID = "OSc-5O-g4Y"; */
+"OSc-5O-g4Y.text" = "Введите Ваш e-mail";
+
+/* Class = "IBUILabel"; text = "Вы прошли обучающий курс"; ObjectID = "VSp-cS-T3v"; */
+"VSp-cS-T3v.text" = "Вы прошли обучающий курс";
+
+/* Class = "IBUINavigationItem"; title = "Справка"; ObjectID = "YIs-lP-CCI"; */
+"YIs-lP-CCI.title" = "Справка";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Ywh-Lh-KML"; */
+"Ywh-Lh-KML.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Еще приложения от Infoizdat"; ObjectID = "Zxy-nH-SWn"; */
+"Zxy-nH-SWn.text" = "Еще приложения от Infoizdat";
+
+/* Class = "IBUIBarButtonItem"; title = "Выбрать курс"; ObjectID = "apd-Vs-a5r"; */
+"apd-Vs-a5r.title" = "Выбрать курс";
+
+/* Class = "IBUILabel"; text = "Поздравляем!"; ObjectID = "bUW-Bw-8OX"; */
+"bUW-Bw-8OX.text" = "Поздравляем!";
+
+/* Class = "IBUINavigationItem"; title = "Title"; ObjectID = "egW-Mi-CwG"; */
+"egW-Mi-CwG.title" = "Title";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "fuA-3R-SeP"; */
+"fuA-3R-SeP.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Title"; ObjectID = "fxf-Z6-aeG"; */
+"fxf-Z6-aeG.title" = "Title";
+
+/* Class = "IBUILabel"; text = "Lorem ipsum dolor sit amet, sed do   consectetur"; ObjectID = "gDq-Co-zuP"; */
+"gDq-Co-zuP.text" = "Lorem ipsum dolor sit amet, sed do   consectetur";
+
+/* Class = "IBUILabel"; text = "Lance Maeyer"; ObjectID = "hWR-Ni-fJw"; */
+"hWR-Ni-fJw.text" = "Lance Maeyer";
+
+/* Class = "IBUINavigationItem"; title = "Detail"; ObjectID = "jR4-W8-ugd"; */
+"jR4-W8-ugd.title" = "Detail";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "my4-dL-CVv"; */
+"my4-dL-CVv.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "pBr-vh-S90"; */
+"pBr-vh-S90.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Введите Ваш адрес e-mail чтобы подписаться на новостную рассылку (одно или два письма в месяц).\n\nКак подписчик Вы будете получать промо-коды и другие бесплатные материалы от Infoizdat.\n\nВаша персональная информация будет использована только для целей указанных выше. Она не будет распространяться и не будет передана третьей стороне."; ObjectID = "pPJ-FA-WxF"; */
+"pPJ-FA-WxF.text" = "Введите Ваш адрес e-mail чтобы подписаться на новостную рассылку (одно или два письма в месяц).\n\nКак подписчик Вы будете получать промо-коды и другие бесплатные материалы от Infoizdat.\n\nВаша персональная информация будет использована только для целей указанных выше. Она не будет распространяться и не будет передана третьей стороне.";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "pea-Ww-c5S"; */
+"pea-Ww-c5S.text" = "Label";
+
+/* Class = "IBUITabBarItem"; title = "Ещё"; ObjectID = "psn-Ra-S3c"; */
+"psn-Ra-S3c.title" = "Ещё";
+
+/* Class = "IBUITabBarItem"; title = "Курс"; ObjectID = "qVg-x6-Ub6"; */
+"qVg-x6-Ub6.title" = "Курс";

@@ -1,0 +1,90 @@
+/* quiz final */
+"%@\n\nCONGRATULATIONS!\nNew chapter have been unlocked for you!" = "%@\n\nПОЗДРАВЛЯЕМ!\nВам для изучения открыта новая глава!";
+
+/* content type */
+"Audio" = "Аудио";
+
+/* web view error description */
+"Can't load web page. Check your Internet connection." = "Невозможно загрузить веб-страницу. Проверьте Ваше подключние к Интернет.";
+
+/* content type description */
+"Checklist for this lesson. What exactly should you do for getting the result." = "Список задач для этой главы. Что конкретно нужно сделать, чтобы получить результат.";
+
+/* web view error */
+"Connection error" = "Ошибка соединения";
+
+/* button
+ TOC label */
+"Contents" = "Содержание";
+
+/* quiz header */
+"Correct %i from %i" = "Правильно %1$i из %2$i";
+
+/* task action */
+"I have trouble" = "Есть трудности";
+
+/* content type description */
+"Listen to this lesson. Use this option when you're doing something else." = "Прослушать данный урок. Используйте эту возможность, если Вы заняты чем-то еще.";
+
+/* InAppSettingsKit */
+"Mail not configured" = "Почта не настроена";
+
+/* task action */
+"New task" = "Новая задача";
+
+/* Switch localized string */
+"OFF" = "Выкл";
+
+/* InAppSettingsKit */
+"OK" = "Ок";
+
+/* Switch localized string */
+"ON" = "Вкл";
+
+/* button tip */
+"Press this button to show  audio controls" = "Нажмите эту кнопку чтобы открыть управление звуком";
+
+/* button tip */
+"Press this button to show help" = "Нажмите эту кнопку чтобы посмотреть справку";
+
+/* quiz header */
+"Question %i from %i" = "Вопрос %1$i из %2$i";
+
+/* content type */
+"Quiz" = "Тест";
+
+/* content type description */
+"Read the lesson. It helps you to study it thoughtfully." = "Прочитать урок. Это поможет Вам изучить его вдумчиво.";
+
+/* No comment provided by engineer. */
+"Settings" = "Настройки";
+
+/* todo header */
+"Task %i from %i" = "Задача %1$i из %2$i";
+
+/* task action */
+"Task completed" = "Готово";
+
+/* task action */
+"Task started" = "Задача начата";
+
+/* content type description */
+"Test yourself. Do you remember all the terms from this lesson?" = "Проверьте себя. Запомнили ли Вы все термины из этого урока?";
+
+/* content type */
+"Text" = "Текст";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "Это устройство не настроено для отправки e-mail. Пожалуйста настройте почту в приложении 'Настройки'.";
+
+/* content type */
+"ToDo" = "Что сделать";
+
+/* content type */
+"Video" = "Видео";
+
+/* content type description */
+"Watch the video of this lesson. Obviously, watching the video is the easiest way to learn." = "Просмотрите видео-запись этого урока. Очевидно, просмотр видео - самый легкий способ обучения.";
+
+/* iPhone main tab */
+"Course" = "Содержание";
